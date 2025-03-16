@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "id": "2fbc",
+      "address": "miyapur",
+      "city": "hyderabad",
+      "state": "telangana",
+      "phoneno": "1234567890"
+    },
+    {
+      "id": "b502",
+      "username": "satya",
+      "address": "miyapur",
+      "city": "hyderabad",
+      "state": "telangana",
+      "phoneno": "1234567890"
+    },
+    {
+      "id": "e758",
+      "username": "raji",
+      "address": "miyapur",
+      "city": "hyderabad",
+      "state": "telangana",
+      "phoneno": "0987654321"
+    },
+    {
+      "id": "99b5",
+      "username": "navya",
+      "address": "3-2",
+      "city": "kakinada",
+      "state": "ap",
+      "phoneno": "2344674363"
+    }
+  ]
+}
